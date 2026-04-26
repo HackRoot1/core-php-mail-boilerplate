@@ -1,0 +1,13 @@
+# Private credentials — NEVER commit
+.env
+
+# Composer dependencies
+vendor/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error_log
