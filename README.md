@@ -344,5 +344,6 @@ your-project/
 ---
 
 *PHP Mailer Kit — Reusable SMTP email system for all your PHP projects.*
-#   c o r e - p h p - m a i l - b o i l e r p l a t e  
+#   c o r e - p h p - m a i l - b o i l e r p l a t e 
+ 
  
